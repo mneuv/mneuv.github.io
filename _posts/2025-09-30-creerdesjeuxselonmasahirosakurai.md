@@ -1,6 +1,6 @@
 ---
 title: Les secrets de création de Masahiro Sakurai
-author: Mickael Neuville
+author: mneuv
 date: 2025-09-30 21:10:00 +0800
 categories: [Masahiro Sakurai, Game Dev]
 tags: [Masahiro Sakurai, Développement de jeux]
